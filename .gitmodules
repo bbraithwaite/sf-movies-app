@@ -1,0 +1,7 @@
+[submodule "sf-movies-api"]
+	path = lib/sf-movies-api
+	url = https://github.com/bbraithwaite/sf-movies-api
+
+[submodule "sf-movies-web"]
+	path = lib/sf-movies-web
+	url = https://github.com/bbraithwaite/sf-movies-web
