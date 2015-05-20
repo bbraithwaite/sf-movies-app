@@ -4,6 +4,6 @@ This is a small web app based on the [Uber Coding Challenge](https://github.com/
 
 Related Repos are:
 
-[sf-movies-web](https://github.com/bbraithwaite/sf-movies-web) - the web layer
-[sf-movies-api](https://github.com/bbraithwaite/sf-movies-api) - the api layer
-[sf-movies-logic](https://github.com/bbraithwaite/sf-movies-logic) - the business logic
+* [sf-movies-web](https://github.com/bbraithwaite/sf-movies-web) - the web layer
+* [sf-movies-api](https://github.com/bbraithwaite/sf-movies-api) - the api layer
+* [sf-movies-logic](https://github.com/bbraithwaite/sf-movies-logic) - the business logic
